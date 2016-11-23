@@ -1,0 +1,17 @@
+{
+  "author": "jbenet",
+  "bugs": {
+    "URL": "https://github.com/jbenet/go-detect-race/issues",
+    "url": "https://github.com/jbenet/go-detect-race/issues"
+  },
+  "gx": {
+    "dvcsimport": "github.com/jbenet/go-detect-race"
+  },
+  "gxVersion": "0.10.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "go-detect-race",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.0"
+}
+
