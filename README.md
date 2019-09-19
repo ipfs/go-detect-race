@@ -4,6 +4,9 @@ Check if the race detector is running.
 
 I didnt find a variable to check quickly enough so I made this.
 
+## Lead Maintainer
+
+[Steven Allen](https://github.com/Stebalien)
 
 ## Usage
 
