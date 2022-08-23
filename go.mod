@@ -1,3 +1,3 @@
 module github.com/ipfs/go-detect-race
 
-go 1.17
+go 1.18
